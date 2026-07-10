@@ -20,9 +20,9 @@ TalentFlow AI takes the manual work out of the process. Resumes come in through 
 
 ## App Screens
 
-- **AI Resume Analyzer** — dashboard view of all applicants with location, salary expectations, and fit ratings
-- **Create Job Opening** — a 3 step flow (Position, Details, Results) to post a role, set budget/country, and get matched applicants
-- **Job Descriptions** — write or update the JD used to score candidates for a given position
+- **AI Resume Analyzer** dashboard view of all applicants with location, salary expectations, and fit ratings
+- **Create Job Opening** a 3 step flow (Position, Details, Results) to post a role, set budget/country, and get matched applicants
+- **Job Descriptions** write or update the JD used to score candidates for a given position
 
 ## How It Works
 
