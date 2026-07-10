@@ -45,6 +45,8 @@ TalentFlow AI takes the manual work out of the process. Resumes come in through 
 
 ![(5)](./(5).png)
 
+![(9)](./(9).png)
+
 ![(1)](./(1).png)
 
 ![(2)](./(2).png)
