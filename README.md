@@ -10,6 +10,12 @@ Manually screening resumes takes forever. Recruiters have to open every attachme
 
 TalentFlow AI takes the manual work out of the process. Resumes come in through email and get pulled automatically, no downloading or sorting by hand. AI reads each resume, pulls out the candidate's details, and scores them against the job description using the same criteria every time. Recruiters get a single dashboard showing every applicant, their fit rating, and a ranked shortlist for any client's requirements, so they can spend their time actually talking to good candidates instead of digging through inboxes.
 
+![Job Description](./Job%20Description.png)
+
+![Resources](./Resources.png)
+
+![Webmail](./Webmail.png)
+
 ## What It Does
 
 - **Automatic resume intake** so applicant emails and attachments (PDF/DOCX) are picked up automatically, no manual downloading or sorting.
