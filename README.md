@@ -32,6 +32,17 @@ TalentFlow AI takes the manual work out of the process. Resumes come in through 
 
  
 ![AI Resume Anlyzar](./AI%20Resume%20Anlyzar.png)
+
+![profile](./profile.png)
+
+![profile1](./profile1.png)
+
+![profile2](./profile2.png)
+
+![profile3](./profile3.png)
+
+![profile4](./profile4.png)
+
 ![(1)](./(1).png)
 
 ## How It Works
