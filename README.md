@@ -45,6 +45,22 @@ TalentFlow AI takes the manual work out of the process. Resumes come in through 
 
 ![(1)](./(1).png)
 
+![(2)](./(2).png)
+
+![(3)](./(3).png)
+
+![(4)](./(4).png)
+
+![(5)](./(5).png)
+
+![(6)](./(6).png)
+
+![(7)](./(7).png)
+
+![(8)](./(8).png)
+
+
+
 ## How It Works
 
 1. Resumes arrive via email and get parsed (PDF and DOCX supported).
